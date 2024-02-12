@@ -8,8 +8,7 @@ import { WelcomeScreen } from './src/Screens/WelcomeScreen';
   return (
     
     <NavigationContainer>
-      {/* <CalculatorScreen/> */}
-      <WelcomeScreen/>
+      <CalculatorScreen/>
     </NavigationContainer>
   )
 }
